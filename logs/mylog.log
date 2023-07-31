@@ -1,0 +1,114 @@
+[INFO ] 2023-07-13 11:25:47.932 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 11:26:40.651 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 11:28:59.417 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 11:33:15.269 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 11:34:07.211 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 11:35:01.857 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 11:41:01.878 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 12:14:49.728 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 12:14:50.677 [main] PlentysWeb - Click Login Button
+[INFO ] 2023-07-13 12:14:51.912 [main] PlentysWeb - Enter Email Address
+[INFO ] 2023-07-13 12:14:52.712 [main] PlentysWeb - Enter Password
+[INFO ] 2023-07-13 12:14:53.363 [main] PlentysWeb - Click on Signin Button
+[INFO ] 2023-07-13 12:14:56.376 [main] PlentysWeb - Wait for 3 Seconds
+[INFO ] 2023-07-13 12:14:57.206 [main] PlentysWeb - Click Account Button
+[INFO ] 2023-07-13 12:14:58.230 [main] PlentysWeb - Click Logout Button
+[INFO ] 2023-07-13 12:17:15.278 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 12:17:16.108 [main] PlentysWeb - Click Login Button
+[INFO ] 2023-07-13 12:17:16.994 [main] PlentysWeb - Enter Email Address
+[INFO ] 2023-07-13 12:17:17.858 [main] PlentysWeb - Enter Password
+[INFO ] 2023-07-13 12:17:18.715 [main] PlentysWeb - Click on Signin Button
+[INFO ] 2023-07-13 12:17:21.729 [main] PlentysWeb - Wait for 3 Seconds
+[INFO ] 2023-07-13 12:17:22.533 [main] PlentysWeb - Click Account Button
+[INFO ] 2023-07-13 12:17:23.646 [main] PlentysWeb - Click Logout Button
+[INFO ] 2023-07-13 12:37:21.044 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 12:37:21.332 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-13 12:37:28.809 [main] PlentysWeb - Wait for 5 Seconds
+[INFO ] 2023-07-13 12:38:20.487 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 12:38:20.783 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-13 12:38:28.663 [main] PlentysWeb - Wait for 5 Seconds
+[INFO ] 2023-07-13 12:38:57.196 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 12:38:57.488 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-13 12:39:12.320 [main] PlentysWeb - Wait for 12 Seconds
+[INFO ] 2023-07-13 12:39:31.693 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 12:39:32.022 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-13 12:39:46.988 [main] PlentysWeb - Wait for 12 Seconds
+[INFO ] 2023-07-13 12:42:32.704 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 12:42:33.380 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-13 12:42:48.226 [main] PlentysWeb - Wait for 12 Seconds
+[INFO ] 2023-07-13 12:43:22.261 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 12:43:22.520 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-13 12:43:37.253 [main] PlentysWeb - Wait for 12 Seconds
+[INFO ] 2023-07-13 12:43:41.485 [main] PlentysWeb - Wait for 4 Seconds
+[INFO ] 2023-07-13 12:44:10.509 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 12:44:10.797 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-13 12:44:24.907 [main] PlentysWeb - Wait for 12 Seconds
+[INFO ] 2023-07-13 12:44:29.133 [main] PlentysWeb - Wait for 4 Seconds
+[INFO ] 2023-07-13 12:44:58.327 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 12:44:58.871 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-13 12:45:12.875 [main] PlentysWeb - Wait for 12 Seconds
+[INFO ] 2023-07-13 12:45:17.091 [main] PlentysWeb - Wait for 4 Seconds
+[INFO ] 2023-07-13 16:25:42.443 [main] PlentysWeb - url opened
+[INFO ] 2023-07-13 16:25:43.295 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-13 16:25:59.537 [main] PlentysWeb - Wait for 12 Seconds
+[INFO ] 2023-07-13 16:26:04.046 [main] PlentysWeb - Wait for 4 Seconds
+[INFO ] 2023-07-22 10:57:53.411 [main] PlentysWeb - url opened
+[INFO ] 2023-07-22 10:57:53.960 [main] PlentysWeb - Click Login Button
+[INFO ] 2023-07-22 10:57:54.678 [main] PlentysWeb - Enter Email Address
+[INFO ] 2023-07-22 10:57:55.515 [main] PlentysWeb - Enter Password
+[INFO ] 2023-07-22 10:57:56.246 [main] PlentysWeb - Click on Signin Button
+[INFO ] 2023-07-22 10:57:59.249 [main] PlentysWeb - Wait for 3 Seconds
+[INFO ] 2023-07-22 10:57:59.572 [main] PlentysWeb - Click Account Button
+[INFO ] 2023-07-22 10:58:00.116 [main] PlentysWeb - Click Logout Button
+[INFO ] 2023-07-22 10:58:02.122 [main] PlentysWeb - Wait for 2 Seconds
+[INFO ] 2023-07-26 11:34:09.842 [main] PlentysWeb - url opened
+[INFO ] 2023-07-26 11:34:10.742 [main] PlentysWeb - Click Login Button
+[INFO ] 2023-07-26 11:34:11.768 [main] PlentysWeb - Enter Email Address
+[INFO ] 2023-07-26 11:34:12.553 [main] PlentysWeb - Enter Password
+[INFO ] 2023-07-26 11:34:13.505 [main] PlentysWeb - Click on Signin Button
+[INFO ] 2023-07-26 11:34:16.517 [main] PlentysWeb - Wait for 3 Seconds
+[INFO ] 2023-07-26 11:34:17.556 [main] PlentysWeb - Click Account Button
+[INFO ] 2023-07-26 11:34:18.634 [main] PlentysWeb - Click Logout Button
+[INFO ] 2023-07-26 11:34:20.647 [main] PlentysWeb - Wait for 2 Seconds
+[INFO ] 2023-07-27 11:23:37.537 [main] PlentysWeb - url opened
+[INFO ] 2023-07-27 12:25:43.675 [main] PlentysWeb - url opened
+[INFO ] 2023-07-27 12:30:29.556 [main] PlentysWeb - url opened
+[INFO ] 2023-07-27 12:35:37.156 [main] PlentysWeb - url opened
+[INFO ] 2023-07-27 12:35:39.616 [main] PlentysWeb - Click Login Button
+[INFO ] 2023-07-27 12:35:40.242 [main] PlentysWeb - Enter Email Address
+[INFO ] 2023-07-27 12:35:41.041 [main] PlentysWeb - Enter Password
+[INFO ] 2023-07-27 12:35:41.447 [main] PlentysWeb - Click on Signin Button
+[INFO ] 2023-07-27 12:35:44.456 [main] PlentysWeb - Wait for 3 Seconds
+[INFO ] 2023-07-27 12:39:43.950 [main] PlentysWeb - url opened
+[INFO ] 2023-07-27 12:39:48.052 [main] PlentysWeb - Click Login Button
+[INFO ] 2023-07-27 12:39:49.103 [main] PlentysWeb - Enter Email Address
+[INFO ] 2023-07-27 12:39:50.490 [main] PlentysWeb - Enter Password
+[INFO ] 2023-07-27 12:39:51.355 [main] PlentysWeb - Click on Signin Button
+[INFO ] 2023-07-27 12:39:54.364 [main] PlentysWeb - Wait for 3 Seconds
+[INFO ] 2023-07-27 12:39:55.074 [main] PlentysWeb - Click Account Button
+[INFO ] 2023-07-27 12:39:55.986 [main] PlentysWeb - Click Logout Button
+[INFO ] 2023-07-27 12:39:57.992 [main] PlentysWeb - Wait for 2 Seconds
+[INFO ] 2023-07-27 12:39:58.756 [main] PlentysWeb - Click Login Button
+[INFO ] 2023-07-27 12:39:59.667 [main] PlentysWeb - Enter Email Address
+[INFO ] 2023-07-27 12:40:00.412 [main] PlentysWeb - Enter Password
+[INFO ] 2023-07-27 12:40:00.663 [main] PlentysWeb - Click on Signin Button
+[INFO ] 2023-07-27 12:40:03.665 [main] PlentysWeb - Wait for 3 Seconds
+[INFO ] 2023-07-27 12:40:04.294 [main] PlentysWeb - Click Account Button
+[INFO ] 2023-07-27 12:40:05.358 [main] PlentysWeb - Click Logout Button
+[INFO ] 2023-07-27 12:40:07.364 [main] PlentysWeb - Wait for 2 Seconds
+[INFO ] 2023-07-27 15:10:40.114 [main] PlentysWeb - url opened
+[INFO ] 2023-07-27 15:10:41.061 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-27 15:10:57.863 [main] PlentysWeb - Wait for 12 Seconds
+[INFO ] 2023-07-27 15:11:02.822 [main] PlentysWeb - Wait for 4 Seconds
+[INFO ] 2023-07-27 15:37:48.616 [main] PlentysWeb - url opened
+[INFO ] 2023-07-27 15:37:49.624 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-27 15:38:06.712 [main] PlentysWeb - Wait for 12 Seconds
+[INFO ] 2023-07-27 15:38:11.642 [main] PlentysWeb - Wait for 4 Seconds
+[INFO ] 2023-07-27 15:53:10.994 [main] PlentysWeb - url opened
+[INFO ] 2023-07-27 15:53:12.057 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-27 15:53:28.967 [main] PlentysWeb - Wait for 12 Seconds
+[INFO ] 2023-07-27 15:53:33.921 [main] PlentysWeb - Wait for 4 Seconds
+[INFO ] 2023-07-27 17:51:11.069 [main] PlentysWeb - url opened
+[INFO ] 2023-07-27 17:51:59.529 [main] PlentysWeb - url opened
+[INFO ] 2023-07-27 17:52:06.199 [main] PlentysWeb - Click Signup Button
+[INFO ] 2023-07-27 17:52:22.465 [main] PlentysWeb - Wait for 12 Seconds
